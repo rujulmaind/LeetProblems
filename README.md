@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/rujulmaind/LeetProblems/tree/master/2610-closest-prime-numbers-in-range) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rujulmaind/LeetProblems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rujulmaind/LeetProblems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
