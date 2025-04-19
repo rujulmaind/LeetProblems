@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rujulmaind/LeetProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rujulmaind/LeetProblems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/rujulmaind/LeetProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rujulmaind/LeetProblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rujulmaind/LeetProblems/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/rujulmaind/LeetProblems/tree/master/0415-add-strings) |
@@ -35,11 +36,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rujulmaind/LeetProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rujulmaind/LeetProblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/rujulmaind/LeetProblems/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rujulmaind/LeetProblems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/rujulmaind/LeetProblems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/rujulmaind/LeetProblems/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rujulmaind/LeetProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
