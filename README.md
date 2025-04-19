@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rujulmaind/LeetProblems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rujulmaind/LeetProblems/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rujulmaind/LeetProblems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rujulmaind/LeetProblems/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/rujulmaind/LeetProblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/rujulmaind/LeetProblems/tree/master/0415-add-strings) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rujulmaind/LeetProblems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rujulmaind/LeetProblems/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/rujulmaind/LeetProblems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
